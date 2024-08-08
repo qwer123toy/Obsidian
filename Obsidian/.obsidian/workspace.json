@@ -30,9 +30,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "6c92c80b595c1b7a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "testfile3.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "무제 파일.md",
+                "file": "testfile3.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "무제 파일.md",
+                "file": "testfile3.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "무제 파일.md"
+                "file": "testfile3.md"
               }
             }
           }
@@ -159,10 +171,11 @@
       "command-palette:명령어 팔레트 열기": false
     }
   },
-  "active": "4343f2b55c778483",
+  "active": "6c92c80b595c1b7a",
   "lastOpenFiles": [
-    "Test.md",
     "무제 파일.md",
+    "testfile3.md",
+    "Test.md",
     "Welcome.md",
     "이미지/그림2.png",
     "이미지/asdfzxcv.PNG",
